@@ -6,12 +6,50 @@ I am a 3rd year student at USICT, Delhi. I am a **MERN Stack Developer** and **R
 
 "Writing over acting, open source over closed source, tea over coffee and C++ over python"
 
-## Skills
+## Coding Skills
 <p>
-<img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" width="67.5px" />
-<img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
+<img src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" height="67.5px" />
+<img src="https://toppng.com//public/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png" height="67.5px" />
+<img src="https://e7.pngegg.com/pngimages/331/583/png-clipart-firebase-computer-icons-mobile-backend-as-a-service-mobile-app-google-cloud-angle-cloud.png" height="67.5px"/>
+<img src="https://thumbnail.imgbin.com/9/14/25/imgbin-php-web-development-perl-logo-php-logo-PsxmvpidHWDsPR4hQjZmgLZL4_t.jpg" height="67.5px"/>
+<img src="https://mpng.subpng.com/20190328/sei/kisspng-mongodb-database-nosql-shard-iasi-mongodb-user-group-iasi-mee-5c9d9325e02767.5082779215538306939181.jpg" height="67.5px"/>
+<img src="https://e7.pngegg.com/pngimages/429/72/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail.png" height="67.5px"/>
+<img src="https://mpng.subpng.com/20190627/ttx/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d145895b06253.7824611015616144857225.jpg" height="67.5px"/>
+<img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" height="67.5px"/>
+<img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" height="67.5px"/>
+<img src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" height="67.5px"/>
+<img src="https://img1.pnghut.com/11/20/24/xDA0b2QGEX/area-understanding-computer-software-sign-manufacturing.jpg" height="67.5px"/>
 </p>
 
+## Other Skills
+- ### Languages
+  - Hindi
+  - English
+- ### Soft Skills
+  - Content Writing
+  - Technical Writing
+  - Teamwork
+  - Problem Solving
+  - Communication
+  - Leadership
+- ### Agile Methodology
+- ### Data Handling
+
+## Skills I am learning
+- Typescript
+- Django
+- Blockchain
+
+## Projects
+- [Amazon Clone](https://clone-91598.web.app/)
+- [Signal Clone](https://signalclone-c4f2b.web.app/)
+- [Discord Clone](https://github.com/harshgoyal7065/Discord-clone)
+
+## Contact Me
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/harshgoyal7065) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/coderthatwrites) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harsh-goyal-195255b9/)
+
+<p align="center"> © 2021 Made with ❤️ by Harsh Goyal. </p>
 
 <!--
 **harshgoyal7065/harshgoyal7065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
