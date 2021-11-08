@@ -9,6 +9,8 @@ I am a 3rd year student at USICT, Delhi. I am a **MERN Stack Developer** and **R
 
 "Writing over acting, open source over closed source, tea over coffee and C++ over python"
 
+<!-- [![Harsh Goyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshgoyal7065&theme=xcode)](https://git.io/harshgoyal7065) -->
+
 ## Coding Skills
 <p>
 <img src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" height="67.5px" />
@@ -51,6 +53,13 @@ I am a 3rd year student at USICT, Delhi. I am a **MERN Stack Developer** and **R
 ## Contact Me
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/harshgoyal7065) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/coderthatwrites) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harsh-goyal-195255b9/)
+
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshgoyal7065&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgoyal7065&theme=tokyonight" />
+</p>
 
 <p align="center"> © 2021 Made with ❤️ by Harsh Goyal. </p>
 
