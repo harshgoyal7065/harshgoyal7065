@@ -7,7 +7,7 @@ I am **Harsh Goyal**
 ## About Me
 I am a 3rd year student at USICT, Delhi. I am a **MERN Stack Developer** and **React Native App developer**. I love creating websites and apps that can help your business reach newer heights.
 
-"Writing over acting, open source over closed source, tea over coffee and C++ over python"
+"Writing over acting, open source over closed source, tea over coffee and C++ over python!!"
 
 Follow me writing at [Hashnode](https://coderthatwrites.hashnode.dev/)
 
