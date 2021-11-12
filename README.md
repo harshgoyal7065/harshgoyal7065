@@ -65,7 +65,7 @@ Follow me writing at [Hashnode](https://coderthatwrites.hashnode.dev/)
 
 </p>
 
-<p align="center"> © 2021 Made with ❤️ by Harsh Goyal. </p>
+<p align="center"> © 2021 Made with ❤️ by Harsh Goyal</p>
 
 <!--
 **harshgoyal7065/harshgoyal7065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
