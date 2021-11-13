@@ -39,6 +39,7 @@ Follow me writing at [Hashnode](https://coderthatwrites.hashnode.dev/)
   - Problem Solving
   - Communication
   - Leadership
+  - Managing communities
 - ### Agile Methodology
 - ### Data Handling
 
